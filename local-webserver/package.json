@@ -21,7 +21,7 @@
   "engines": [
     {
       "name": "cordova-ios",
-      "version": ">=4.0.0-dev"
+      "version": ">=4.0.0"
     }
   ],
   "author": "",
@@ -30,7 +30,5 @@
     "url": "https://github.com/Collaborne/cordova-plugins/issues"
   },
   "homepage": "https://github.com/Collaborne/cordova-plugins#readme",
-  "dependencies": {
-    "urijs": "^1.17.1"
-  }
+  "dependencies": {}
 }
